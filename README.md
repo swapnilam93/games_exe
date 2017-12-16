@@ -6,3 +6,4 @@ To run a game, download the entire folder of a game and then execute the .exe fi
 2.	Super Sparty Bros: All platform game
 3.	Box Shooter: PC game
 4.	Roller Madness: PC game
+5.  Red and Blue: A Mobile game
